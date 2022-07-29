@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pyphagor calculator</string>
+    <string name="info">Вычислить С</string>
+    <string name="rresult_info">Результат:</string>
+    <string name="hint_a">Укажите сторону \"a\"</string>
+    <string name="hint_b">Укажите сторону \"b\"</string>
+    <string name="answer_btn">Расчитать</string>
+</resources>
